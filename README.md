@@ -1,3 +1,3 @@
-# H1 HackerRank
+# HackerRank
 
 *A repo for HackerRank challenges*
